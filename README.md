@@ -49,9 +49,8 @@ The project successfully demonstrates the use of machine learning to predict Spa
    ```bash
    git clone https://github.com/mohannadtazi/Applied-Data-Science-Capstone-IBM.git
    ```
-
 2. Install required libraries:
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
 
